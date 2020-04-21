@@ -1,0 +1,4 @@
+DROP TABLE IF EXISTS vendor;
+DROP TABLE IF EXISTS transaction;
+DROP TABLE IF EXISTS customer;
+
